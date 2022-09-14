@@ -4,10 +4,11 @@ I am currently a student at BCIT's Computer Systems Technology program and will 
 
 In my free time, I am usually picking up books or comics, or exercising. Big enthusiast of Korean/Japanese/Chinese culture.
 
-- 📫 How to reach me: www.linkedin.com/in/john-ryue or at johnryue1993@gmail.com
-- 🌱 Proficient languages: Java, Python, C++
-- 👯 I’m looking to collaborate on a React application
-- ⚡ Fun fact: I keep a portfolio of drawings (anything from Pokemon drawings to my favorite comic book heroes).
+- How to reach me: www.linkedin.com/in/john-ryue or at johnryue1993@gmail.com
+- Proficient languages: Java, Python, C++
+- Experienced at: ReactJS, React Native, JQuery, Node
+- I’m looking to collaborate on a React application
+- Fun fact: I keep a portfolio of drawings (anything from Pokemon drawings to my favorite comic book heroes).
 
 
 
